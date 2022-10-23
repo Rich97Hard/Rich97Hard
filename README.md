@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-  <img   align="middle" height="380em" weidth="1024" src="https://github.com/Rich97Hard/Rich97Hard/blob/main/mago2.gif?raw=true"/>
+  <img   align="middle" height="200em" src="https://github.com/Rich97Hard/Rich97Hard/blob/main/mago2.gif?raw=true"/>
  <div>
    <a href="https://github.com/Rich97Hard">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich97Hard&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
