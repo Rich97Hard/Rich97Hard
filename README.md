@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-
+ <img src="https://github.com/Rich97Hard/Rich97Hard/blob/main/github.gif?raw=true"/>
  <div>
    <a href="https://github.com/Rich97Hard">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich97Hard&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -24,8 +24,6 @@
   <a href = "mailto:richard97.leal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-leal-941097253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
-  <img src="https://github.com/Rich97Hard/Rich97Hard/blob/main/github.gif?raw=true"/>
  
   ![Snake animation](https://github.com/Rich97Hard/Rich97Hard/blob/output/github-contribution-grid-snake.svg)
 
