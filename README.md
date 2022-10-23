@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
- <img src="https://github.com/Rich97Hard/Rich97Hard/blob/main/github.gif?raw=true"/>
+ <img src="https://github.com/Rich97Hard/Rich97Hard/blob/main/charlizard2.gif?raw=true"/>
  <div>
    <a href="https://github.com/Rich97Hard">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rich97Hard&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
