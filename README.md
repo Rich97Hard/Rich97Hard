@@ -1,5 +1,5 @@
 <h1 align="center">
-##  Bem-vindo(a) ao meu perfil 😁
+Bem-vindo(a) ao meu perfil 😁
 </h1>
  <p align="center"> <img   align="middle" height="200em" src="https://github.com/Rich97Hard/Rich97Hard/blob/main/mago2.gif?raw=true"/> </p>
  
