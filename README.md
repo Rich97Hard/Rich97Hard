@@ -18,7 +18,7 @@ Bem-vindo(a) ao meu perfil 😁
  
  <br>
  
-  ### me segue nas redes abaixo!
+  ### Me segue nas redes abaixo!
  
 <div> 
   <img height="80em" src="https://github.com/Rich97Hard/Rich97Hard/blob/main/link.gif?raw=true"/>
