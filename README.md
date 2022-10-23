@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/richard-leal-941097253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  <img src="https://github.com/Rich97Hard/Rich97Hard/blob/master/github.gif?raw=true"/>
+  <img src="https://github.com/Rich97Hard/Rich97Hard/blob/main/github.gif?raw=true"/>
  
   ![Snake animation](https://github.com/Rich97Hard/Rich97Hard/blob/output/github-contribution-grid-snake.svg)
 
