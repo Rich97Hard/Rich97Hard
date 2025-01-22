@@ -2,12 +2,10 @@
 Bem-vindo(a) ao meu perfil!! 😁
 </h1>
 
-<h2> Sobre:</h2>
-<p>
- Faço estágio como Auxiliar de Desenvolvimento na Josapar, onde tenho contato com as tecnologias: C# | .Net Core | Entity Framework | VB6 | SQL | Git.
- Executo diariamente funções de atualização, manutenção e criação de projetos tanto Web quanto Desktop.
- Postarei aqui sempre que possível meus projetos pessoais ou projetos de meus diversos cursos!
-</p>
+<h2> Sobre mim:</h2>
+<p> Faço estágio como Auxiliar de Desenvolvimento na Josapar, onde tenho contato com as tecnologias: C# | .Net Core | Entity Framework | VB6 | SQL | Git. </p>
+<p> Executo diariamente funções de atualização, manutenção e criação de projetos tanto Web quanto Desktop. </p>
+<p> Postarei aqui sempre que possível meus projetos pessoais ou projetos de meus diversos cursos! </p>
 
  <p align="center"> <img   align="middle" height="200em" src="https://github.com/Rich97Hard/Rich97Hard/blob/main/mago2.gif?raw=true"/> </p>
  
