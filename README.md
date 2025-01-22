@@ -19,10 +19,19 @@ Bem-vindo(a) ao meu perfil!! 😁
   
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="DotNet" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg"/>
+ <img align="center" alt="VisualBasic" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualbasic/visualbasic-original.svg"/>
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original-wordmark.svg"/>
+  <img align="center" alt="VisualStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg"/>
+  <img align="center" alt="IntelliJ" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg"/>
+  <img align="center" alt="Postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg"/>
+  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
+  <img align="center" alt="GitLab" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg"/>
+  <img align="center" alt="LinkedIn" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
 </div>
  
  <br>
