@@ -26,6 +26,9 @@ Bem-vindo(a) ao meu perfil!! 😁
   <img align="center" alt="VSCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original-wordmark.svg"/>
   <img align="center" alt="VisualStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg"/>
   <img align="center" alt="IntelliJ" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg"/>
+  <img align="center" alt="SQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Oracle" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg"/>
   <img align="center" alt="Postman" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg"/>
   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"/>
   <img align="center" alt="GitLab" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg"/>
